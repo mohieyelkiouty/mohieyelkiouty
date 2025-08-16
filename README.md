@@ -97,7 +97,7 @@
 </p>
 
 <p align="left">
-  📄 Know about my experiences: <a href="https://drive.google.com/file/d/13E4t-aumWLctbAmZuxlZnxTC8FyQtOvl/view?usp=sharing" target="_blank">Resume</a>
+  📄 Know about my experiences: <a href="[https://drive.google.com/file/d/13E4t-aumWLctbAmZuxlZnxTC8FyQtOvl/view?usp=sharing](https://drive.google.com/file/d/1iRI7jyvn7WUJc17Q6qqDI6-RTDgtynfm/view?usp=drive_link)" target="_blank">Resume</a>
 </p>
 
 <br><br>
