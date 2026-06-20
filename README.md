@@ -180,7 +180,7 @@ End-to-end construction site analytics:
 
 <br/><br/>
 
-<img width="84%" src="https://github-profile-trophy.vercel.app/?username=mohieyelkiouty&theme=tokyonight&row=1&column=7&margin-h=10&margin-w=5&no-bg=true" />
+<img width="84%" src="https://github-profile-trophies.vercel.app/?username=mohieyelkiouty&theme=tokyonight&row=1&column=7&margin-h=10&margin-w=5&no-bg=true" />
 
 
 </div>
@@ -191,10 +191,10 @@ End-to-end construction site analytics:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohiey%20El%20Kiouty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohiey-el-kiouty-87b89925b)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mohiey%20El%20Kiouty-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohiey-elkiouty/)
 [![GitHub](https://img.shields.io/badge/GitHub-mohieyelkiouty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohieyelkiouty)
-[![Facebook](https://img.shields.io/badge/Facebook-Mohiey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1AuLxC1pNF/)
-[![Instagram](https://img.shields.io/badge/Instagram-mohiey.elkiouty-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohiey.elkiouty)
+[![Facebook](https://img.shields.io/badge/Facebook-Mohiey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohiey.mohamed.2025?locale=ar_AR)
+[![Instagram](https://img.shields.io/badge/Instagram-mohiey.elkiouty-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohiey.elkiouty/)
 [![Email](https://img.shields.io/badge/Email-mohymohamed004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohymohamed004@gmail.com)
 
 </div>
