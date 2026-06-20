@@ -4,9 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,40:0f2a4a,100:003566&text=Mohiey%20Mohamed&fontSize=58&fontColor=90e0ef&fontAlignY=38&animation=fadeIn&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Builder&descSize=19&descAlignY=62&descColor=48cae4&fontFamily=Raleway" width="100%" />
 
 <!-- Typing Animation — Fira Code for that clean mono dev feel -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=48CAE4&center=true&vCenter=true&width=680&height=55&lines=🔍+Building+Eyes+for+Machines;𓂀+Decoding+Ancient+Egypt+with+AI;🏗️+Raw+Frames+→+Real+Insights;🚀+Production-grade+CV+%7C+End-to-End+MLOps" alt="Typing SVG" />
-
-<br/>
+<p align="center">
+  <code style="font-family: 'Fira Code', monospace; font-size: 20px; font-weight: 600; color: #48CAE4;">
+    🔍 Building Eyes for Machines | 𓂀 Decoding Ancient Egypt with AI | 🏗️ Raw+Frames → Real+Insights | 🚀 Production-grade CV | End-to-End MLOps
+  </code>
+</p>
 
 <br/>
 
