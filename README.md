@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0d1117,40:0f2a4a,100:003566&text=Mohiey%20Mohamed&fontSize=58&fontColor=90e0ef&fontAlignY=38&animation=fadeIn&desc=Computer%20Vision%20Engineer%20%7C%20AI%20Builder&descSize=19&descAlignY=62&descColor=48cae4&fontFamily=Raleway" width="100%" />
 
 <!-- Typing Animation — Fira Code for that clean mono dev feel -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=48CAE4&center=true&vCenter=true&width=680&height=55&lines=🔍+Building+Eyes+for+Machines;𓂀+Decoding+Ancient+Egypt+with+AI;🏗️+Raw+Frames+→+Real+Insights;🚀+Production-grade+CV+%7C+End-to-End+MLOps" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1200&color=48CAE4&center=true&vCenter=true&width=680&height=55&lines=%F0%9F%94%8D+Building+Eyes+for+Machines;%F0%93%82%80+Decoding+Ancient+Egypt+with+AI;%F0%9F%8F%97%EF%B8%8F+Raw+Frames+%E2%86%92+Real+Insights;%F0%9F%9A%80+Production-grade+CV+%7C+End-to-End+MLOps" alt="Typing SVG" />
 
 <br/>
 
