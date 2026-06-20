@@ -195,7 +195,7 @@ End-to-end construction site analytics:
 [![GitHub](https://img.shields.io/badge/GitHub-mohieyelkiouty-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohieyelkiouty)
 [![Facebook](https://img.shields.io/badge/Facebook-Mohiey-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mohiey.mohamed.2025?locale=ar_AR)
 [![Instagram](https://img.shields.io/badge/Instagram-mohiey.elkiouty-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohiey.elkiouty/)
-[![Email](https://img.shields.io/badge/Email-mohymohamed004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohymohamed004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mohymohamed004@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mohymohamed004@gmail.com)
 
 </div>
 
